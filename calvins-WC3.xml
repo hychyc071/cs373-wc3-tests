@@ -1,0 +1,733 @@
+﻿<worldCrises>
+	<!-- CRISIS -->
+
+	<crisis id = "deepwater">
+		<name>Deepwater Horizon Oil Spill</name>
+		<info>
+			<history>Also known as the BP Oil Spill, Maconda Blowout, and th Gulf of Mexico Oil Spill, this is one of the largest accident in the petroleum industry with clean up a continue struggle today.</history>
+			<help>  Volunteering along the gulf to help clean</help>
+			<resources> Help cleaning spill and wildlife</resources> 
+			<type>Wellhead Blowout and Oil Spill</type>
+			<time>
+				<time>12:00</time>
+				<day>20</day>
+				<month>4</month>
+				<year>2010</year>
+				<misc>0</misc>
+			</time>
+			<loc>
+				<city>At Sea</city>
+				<region>Gulf of Mexico</region>
+				<country>USA</country>
+			</loc> 
+			<impact>
+				<human>
+					<deaths>11</deaths>
+					<displaced>0</displaced>
+					<injured>0</injured>
+					<missing>0</missing>
+					<misc>0</misc>
+				</human>
+				<economic>
+					<amount>30000000000</amount>
+					<currency>dollars</currency>
+					<misc>0</misc>
+				</economic>
+			</impact> 
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Deepwater Horizon 1</site>
+				<title>Deepwater Horizon</title>
+				<url>http://www.thebuzzmedia.com/wp-content/uploads/2010/06/bp-oil-spill-bird-covered-in-oil.jpg</url>
+				<description>Impact to the marine life at the Gulf of Mexico.</description>
+            </primaryImage>
+			<image>
+                <site>Deepwater Horizon 2</site>
+				<title>Putting Out Fire From Explosion</title>
+				<url>http://www4.pictures.zimbio.com/gi/Eleven+People+Missing+After+Explosion+Offshore+4u55Qj3S000l.jpg</url>
+				<description>Desperate to control damage.</description>
+			</image>
+			<video>
+				<site>Youtube</site>
+				<title></title>
+				<url>http://www.youtube.com/embed/-OVNd6Fa9fg</url>
+				<description></description>
+			</video>
+			<social>
+                <site>Facebook Page</site>
+				<title>Facebook</title>
+				<url>http://www.facebook.com/BPOilCrisisInTheGulf?ref=ts</url>
+                <description>Facebook page for the Deepwater Horizon Oil Spill.</description>
+			</social>
+			<ext>
+                <site>Wikipedia Entry</site>
+				<title>Wikipedia</title>
+				<url>http://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill#Consequences</url>
+				<description>Wikipedia entry of Deepwater Horizon Oil Spill.</description>
+			</ext>    
+		</ref>
+		<misc>Something</misc>
+		<org idref = "bp"/>
+		<person idref = "feinberg"/>
+	</crisis>
+
+	<crisis id = "polio">
+		<name>Polio</name>
+		<info>
+			<history>Poliomyelitis is a potentially fatal viral disease that can affect nerves and can lead to partial or full paralysis.</history>
+			<help>Donating to eradication effort: http://www.polioeradication.org/Financing/Donate.aspx</help>
+			<resources>Global Vaccination Campaign</resources> 
+			<type>Viral Disease</type>
+			<time>
+				<time>12:00</time>
+				<day>24</day>
+				<month>10</month>
+				<year>1955</year>
+				<misc>0</misc>
+			</time>
+			<loc>
+				<city>Many Cities in Region</city>
+				<region>Country Wide</region>
+				<country>Asia and Africa</country>
+			</loc> 
+			<impact>
+				<human>
+					<deaths>14000000</deaths>
+					<displaced>0</displaced>
+					<injured>50000000</injured>
+					<missing>0</missing>
+					<misc>0</misc>
+				</human>
+				<economic>
+					<amount>250000000</amount>
+					<currency>Dollar</currency>
+					<misc>0</misc>
+				</economic>
+			</impact> 
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Photo of child recieving medication for polio</site>
+				<title>Child Giving Medication</title>
+				<url>http://sphotos-a.xx.fbcdn.net/hphotos-ash4/s720x720/419233_10150647107914837_1435806600_n.jpg</url>
+				<description>A child recieving treatment for polio.</description>
+            </primaryImage>
+			<image>
+                <site>Polio Virus Render</site>
+				<title>3D Picture of the Polio Virus</title>
+				<url>http://www.npspindia.org/images/Polio-Virus.jpg</url>
+				<description>A 3 dimension rendering of the polio virus.</description>
+			</image>
+			<video>
+				<site>Polio's Last Percent'</site>
+				<title>Polio's Last Percent'</title>
+				<url>http://www.youtube.com/embed/AfmwcShVeM0</url>
+				<description>Polio</description>
+			</video>
+			<social>
+                <site>End Polio Now at Facebook</site>
+				<title>End Polio Now Facebook Page</title>
+				<url>http://www.facebook.com/pages/End-Polio-Now/78976274836</url>
+				<description>facebook page for polioi activism.</description>
+			</social>
+			<ext>
+                <site>Bill and Melinda Gates Foundation</site>
+				<title>Bill and Melinda Gates Foundation</title>
+				<url>http://www.gatesfoundation.org/polio/pages/default.aspx</url>
+				<description>A site for the Bill and Melinda Gates Foundation.</description>
+			</ext>    
+		</ref>
+		<misc>Something</misc>
+		<org idref = "tgpei"/>
+		<person idref = "jonassalk"/>
+	</crisis>
+	
+	<crisis id = "childhoodobesity">
+		<name>Childhood Obesity</name>
+		<info>
+			<history>Childhood obesity has tripled in the past 30 years has both immediate and long-term effects on health and well-being.</history>
+			<help>States and communities can assess their retail food environment to better understand the current landscape and differences in accessibility to healthier foods and provide incentives to existing supermarkets and farmers' markets to establish their businesses in low-income areas or to sell healthier foods.</help>
+			<resources>Food Education</resources> 
+			<type>Health</type>
+			<time>
+				<time>12:00</time>
+				<day>1</day>
+				<month>1</month>
+				<year>2008</year>
+				<misc>0</misc>
+			</time>
+			<loc>
+				<city>Many Cities</city>
+				<region>Worldwide</region>
+				<country>First-world Countries</country>
+			</loc> 
+			<impact>
+				<human>
+					<deaths>0</deaths>
+					<displaced>0</displaced>
+					<injured>0</injured>
+					<missing>0</missing>
+					<misc>0</misc>
+				</human>
+				<economic>
+					<amount>10000000</amount>
+					<currency>Dollar</currency>
+					<misc>0</misc>
+				</economic>
+			</impact> 
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Couch-Potato</site>
+				<title>Kid Being a Couch-Potato</title>
+				<url>http://www.toptenz.net/wp-content/uploads/2011/07/childhood-obesity-300x180.jpg</url>
+				<description>Lack of exercise and junkfood</description>
+            </primaryImage>
+			<image>
+				<site>Fat Kid Photo</site>
+				<title>Fat Kid</title>
+				<url>http://moviecitynews.com/wp-content/uploads/2012/06/Fat-Kid-Rules-the-World_04.jpg</url>
+				<description>Obesity</description>
+			</image>
+			<video>
+				<site>About Childhood Obesity</site>
+				<title>Childhood Obesity</title>
+				<url>http://www.youtube.com/embed/dLMoFST_Lmc</url>
+				<description>Talking about childhood obesity</description>
+			</video>
+			<social>
+				<site>Twitter Page for childhood obesity</site>
+				<title>Twitter</title>
+				<url>https://twitter.com/CDCObesity</url>
+				<description>Twitter page about childhood obesity</description>
+			</social>
+			<ext>
+				<site>CDC Information</site>
+				<title>Childhood Obesity CDC Information</title>
+				<url>http://www.cdc.gov/healthyyouth/obesity/facts.htm</url>
+				<description>CDC Information site for Childhood Obesity.</description>
+			</ext>    
+		</ref>
+		<misc>Something</misc>
+		<org idref = "aap"/>
+		<person idref = "michelleobama"/>
+	</crisis>
+
+	<crisis id = "greece">
+		<name>Greece Debt Crisis</name>
+		<info>
+			<history>Greece was living beyond its means before adopting the Euro and after adopting the Euro public spending significantly rose. After years of overspending, Greece’s budget deficit spiraled out of control, which left Greece unprepared to handle the global economic downturn. Greece’s debt reached levels so high that it was unable to pay, so required massive loans from European partners and the IMF </history>
+			<help>Bailout from IMF and EU</help>
+			<resources>Bailouts from EU and IMF</resources> 
+			<type>Debt crisis that could lead to problems in the Eurozone</type>
+			<time>
+				<time>12:00</time>
+				<day>1</day>
+				<month>1</month>
+				<year>2009</year>
+				<misc>0</misc>
+			</time>
+			<loc>
+				<city>Athens</city>
+				<region>Attica</region>
+				<country>Greece</country>
+			</loc> 
+			<impact>
+				<human>
+					<deaths>5</deaths>
+					<displaced>0</displaced>
+					<injured>300</injured>
+					<missing>0</missing>
+					<misc>0</misc>
+				</human>
+				<economic>
+					<amount>240000000000</amount>
+					<currency>Euros</currency>
+					<misc>0</misc>
+				</economic>
+			</impact> 
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Political Cartoon</site>
+				<title>Political Cartoon</title>
+				<url>http://2.bp.blogspot.com/--S0bgE12ohM/TrQUIGj7NSI/AAAAAAAAAPg/5aBsjD2csgM/s1600/023-0617131539-greek-economy-crisis2.jpg</url>
+				<description>A political cartoon of the Greece Debt Crisis</description>
+            </primaryImage>
+			<image>
+				<site>Riot in Greece</site>
+				<title>Rioting in Greece</title>
+				<url>http://cdn.theatlantic.com/static/infocus/athens021312/s_a06_10125965.jpg</url>
+				<description>Riot broke out in Greece.</description>
+			</image>
+			<video>
+				<site>Youtube.com</site>
+				<title>Greece Debt Crisis Explained in 4 Minutes</title>
+				<url>http://www.youtube.com/embed/mEVqeaFHsHE</url>
+				<description>Explanation of Freece Debt Crisis</description>
+			</video>
+			<social>
+				<site>Facebook for Greece Debt Crisis</site>
+				<title>Facebook</title>
+				<url>https://www.facebook.com/GreeceDebtFree</url>
+				<description>Facebook page for the Greece Debt Crisis</description>
+			</social>
+			<ext>
+				<site>CNN</site>
+				<title>CNN</title>
+				<url>http://www.cnn.com/2010/BUSINESS/02/10/greek.debt.qanda/index.html</url>
+				<description>CNN article regarding the Greece Debt Crisis</description>
+			</ext>    
+		</ref>
+		<misc>Something</misc>
+		<org idref = "imf"/>
+		<person idref = "papandreou"/>
+	</crisis>
+	
+	<!-- ORGANIZATIONS -->
+	
+	<organization id = "bp">
+		<name>BP</name>
+		<info>
+			<type>Oil and gas company</type>
+			<history>British multinational oil and gas company which is the third-largest energy company and fourth-largest company in the world measured by 2011 revenues. It is vertically integrated and is active in every area of the oil and gas industry, including exploration and production,refining, distribution and marketing, petrochemicals, power generation and trading. It also has renewable energy activities in biofuelsand wind power. Its largest division is BP America, which is the second-largest producer of oil and gas in the United States and is headquartered in Houston, Texas. As of December 2011, BP had total proven commercial reserves of 17.75 billion barrels of oil equivalent. The name "BP" derives from the initials of one of the company's former legal names, British Petroleum.</history>
+			<contact>
+				<phone>866-448-5816</phone>
+				<email>bpconsum@bp.com</email>
+				<mail>
+					<address>28301 Ferry Road</address>
+					<city>Warrenville</city>
+					<state>IL</state>
+					<country>USA</country>
+					<zip>60555</zip>
+				</mail>
+			</contact>
+			<loc>
+				<city>London</city>
+				<region>London</region>
+				<country>England</country>
+			</loc>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Youtube</site>
+				<title>BP's Logo'</title>
+				<url>http://www.wbrz.com/images/news/bpbiglogo.jpg</url>
+				<description>BP's Logo'</description>
+            </primaryImage>
+			<image>
+				<site>Youtube</site>
+				<title>BP</title>
+				<url>http://media.tumblr.com/tumblr_l4l8lyJRIl1qzhq18.jpg</url>
+				<description>BP</description>
+			</image>
+			<video>
+				<site>Youtube</site>
+				<title>BP Statistical Review of World Energy 2012</title>
+				<url>http://www.youtube.com/embed/KtWoPZluI2E</url>
+				<description>BP Statistical Review of World Energy 2012</description>
+			</video>
+			<social>
+				<site>Facebook</site>
+				<title>BP's Facebook Page</title>
+				<url>http://facebook.com/BPAmerica</url>
+				<description>BP's Facebook Page</description>
+			</social>
+			<ext>
+				<site>BP</site>
+				<title>BP</title>
+				<url>http://www.bp.com</url>
+				<description>BP's website'</description>
+			</ext>     
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "deepwater"/>
+		<person idref = "feinberg"/>	
+	</organization>
+
+	<organization id = "tgpei">
+		<name>The Global Polio Eradication Initiative</name>
+		<info>
+			<type>Governmental Group</type>
+			<history>The Global Polio Eradication Initiative is a public-private partnership led by national governments and spearheaded by the World Health Organization (WHO), Rotary International, the US Centers for Disease Control and Prevention (CDC), and the United Nations Children’s Fund (UNICEF).</history>
+			<contact>
+				<phone>No Phone Number</phone>
+				<email>Private</email>
+				<mail>
+					<address>Avenue Appia 20</address>
+					<city>Geneva</city>
+					<state>NA</state>
+					<country>Switzerland</country>
+					<zip>NA</zip>
+				</mail>
+			</contact>
+			<loc>
+				<city>Geneva</city>
+				<region>Region</region>
+				<country>Switzerland</country>
+			</loc>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Global Polio Eratication Initiative Logo</site>
+				<title>Global Polio Eratication Initiative Logo</title>
+				<url>http://www.polioeradication.org/Portals/0/newlogo.jpg</url>
+				<description>Logo</description>
+            </primaryImage>
+			<image>
+				<site>End Polio Now</site>
+				<title>End Polio Now</title>
+				<url>http://deskofbrian.com/wp-content/uploads/EndPolioNow.jpg</url>
+				<description>End Polio Now</description>
+			</image>
+			<video>
+				<site>Dr. Jonas Salk</site>
+				<title>Interview with Dr. Jonas Salk</title>
+				<url>http://www.youtube.com/embed/liQzs6qqYQg</url>
+				<description>Dr. Jonas Salk Interview</description>
+			</video>
+			<social>
+				<site>Twitter</site>
+				<title>Polio Free Nigeria Twitter</title>
+				<url>http://twitter.com/poliofreeNG/status/194709722010624000</url>
+				<description>Twitter to Polio Free Nigeria</description>
+			</social>
+			<ext>
+				<site>The End of Polio</site>
+				<title>The End of Polio</title>
+				<url>http://www.theendofpolio.com/home/2011/07/global-polio-eradication-initiative/</url>
+				<description>Help bring an end to polio!</description>
+			</ext>     
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "polio"/>
+		<person idref = "jonassalk"/>	
+	</organization>
+	
+	<organization id = "aap">
+		<name>The American Academy of Pediatrics</name>
+		<info>
+			<type></type>
+			<history>Founded in 1930 by 35 pediatricians. The AAP has produced more than 480 publications in 140 countries. The AAP and its members work at the local level in hospitals, offices and clinics and in state and federal government to protect the well being of children.</history>
+			<contact>
+				<phone>847-434-4000</phone>
+				<email>catch@aap.org</email>
+				<mail>
+					<address>141 Northwest Point Boulevard</address>
+					<city>Elk Grove Villiage</city>
+					<state>IL</state>
+					<country>U.S.A.</country>
+					<zip>60007-1098</zip>
+				</mail>
+			</contact>
+			<loc>
+				<city>Elk Grove Villiage</city>
+				<region>IL</region>
+				<country>U.S.A.</country>
+			</loc>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>AAP ogo</site>
+				<title>AAP Logo</title>
+				<url>http://instinctmagazine.com/images/stories/blogs/jhigbee/april2012/aaop.jpg</url>
+				<description>AAP Logo</description>
+            </primaryImage>
+			<image>
+                <site>AAP Guide Book</site>
+				<title>AAP Guide Book</title>
+				<url>http://ecx.images-amazon.com/images/I/51NZHPDZC8L._SL500_AA300_.jpg</url>
+				<description>AAP Guide Book</description>
+			</image>
+			<video>
+				<site>youtube</site>
+				<title>2011 AAP Policy Statement - Media Use by Children Younger Than 2 Years </title>
+				<url>http://www.youtube.com/embed/9EuXIrWUkI0</url>
+				<description>New Policy Statement from AAP</description>
+			</video>
+			<social>
+                <site>AAP News Twitter</site>
+				<title>AAP News Twitter</title>
+				<url>https://twitter.com/#!/AAPNews/</url>
+				<description>AAP News Twitter</description>
+			</social>
+			<ext>
+                <site>AAP Website</site>
+				<title>AAP Website</title>
+				<url>http://www.aap.org/</url>
+				<description>AAP Website</description>
+			</ext>     
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "childhoodobesity"/>
+		<person idref = "michelleobama"/>	
+	</organization>
+
+	<organization id = "imf">
+		<name>International Monetary Fund</name>
+		<info>
+			<type>International Economic Organization</type>
+			<history>The IMF was created on July 22, 1944 at the Bretton Woods Conference with the intention of rebuilding the global economic system after WWII. The IMF was formally organized on December 27, 1945 when 29 countries signed the Articles of Agreement. The IMF functions like a bank and makes sure that borrowing states can pay their debts on time. The IMF also offers member nations information on economic policies of all member nations, financial support in times of economic difficulties, and increased opportunities for trade and investment. The IMF is one of the key organizations of the international economic system. Currently, the IMF has 188 member nations and its largest borrowers are Greece, Portugal, Ireland, Romania, and Ukraine.</history>
+			<contact>
+				<phone>202-623-7000</phone>
+				<email>publicaffairs@imf.org</email>
+				<mail>
+					<address>700 19th Street</address>
+					<city>N.W.</city>
+					<state>Washington, D.C.</state>
+					<country>USA</country>
+					<zip>20431</zip>
+				</mail>
+			</contact>
+			<loc>
+				<city>Washington, DC</city>
+				<region>District of Columbia</region>
+				<country>USA</country>
+			</loc>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>IMF Logo</site>
+				<title>IMF Logo</title>
+				<url>http://upload.wikimedia.org/wikipedia/en/thumb/7/7e/International_Monetary_Fund_logo.svg/200px-International_Monetary_Fund_logo.svg.png</url>
+				<description>IMF Logo</description>
+            </primaryImage>
+			<image>
+                <site>IMF HQ</site>
+				<title>Outside IMF HQ</title>
+				<url>http://worldpoliticsblog.files.wordpress.com/2011/01/imfhq.jpg</url>
+				<description>Outside IMF HQ</description>
+			</image>
+			<video>
+				<site>IMF</site>
+				<title>IMF</title>
+				<url>http://www.imf.org/external/mmedia/view.aspx?vid=1697394593001</url>
+				<description>About IMF</description>
+			</video>
+			<social>
+                <site>Facebook IMF</site>
+				<title>Facebook Page for IMF</title>
+				<url>http://www.facebook.com/pages/International-Monetary-Fund/109505255742373?rf=106386849397674</url>
+				<description>Facebook page for IMF</description>
+			</social>
+			<ext>
+                <site></site>
+				<title>IMF</title>
+				<url>http://www.imf.org/external/index.htm</url>
+				<description>IMF Website</description>
+			</ext>     
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "greece"/>
+		<person idref = "papandreou"/>	
+	</organization>
+	
+	
+	<!-- PERSONSSSSS -->
+	
+	<person id = "feinberg">
+	    <name>Kenneth Feinberg</name>
+		<info>
+			<type>Attorney</type>
+			<birthdate>
+				<time>12:00</time>
+				<day>23</day>
+				<month>10</month>
+				<year>1945</year>
+				<misc>0</misc>
+			</birthdate>
+			<nationality>American</nationality>
+			<biography>An American attorney with his own firm, Feinberg Rozen, Kenneth Feinberg was appointed the administrator of the BP Deepwater Horizon Disaster Victim Compensation Fund. Feinberg was subject to much controversy regarding the fund, including a conflict of interest accusation due to BP paying Feinberg to administer the fund. Additionally, the Center for Justice and Democracy sent a letter to BP raising issues about the lack of transparency regarding the fund.</biography>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Feinberg</site>
+				<title>Kenneth Feinberg</title>
+				<url>http://www.washingtonian.com/articles/images/03.01.08.Feinburg.jpg</url>
+				<description>Kenneth Feinberg Photo</description>
+            </primaryImage>
+			<image>
+                <site></site>
+				<title>Kenneth Feinberg Speaking</title>
+				<url>http://draketoulouse.files.wordpress.com/2011/06/feinberg2.jpg</url>
+				<description>Kenneth Feinberg gesturing while speaking in a microphone.</description>
+			</image>
+			<video>
+				<site>Youtube</site>
+				<title>Kenneth Feinberg on the BP oil spill</title>
+				<url>http://www.youtube.com/embed/dUe9mCKj4A8</url>
+				<description>Kenneth Feinberg being interviewed on the controversy regarding the BP Deepwater Horizon Disaster Victim Compensation Fund.</description>
+			</video>
+			<social>
+                <site>Kenneth Feinberg Facebook</site>
+				<title>Kenneth Feinberg Facebook</title>
+				<url>http://www.facebook.com/pages/Kenneth-Feinberg/143047909045042</url>
+				<description>Kenneth Feinberg's Facebook Page'</description>
+			</social>
+			<ext>
+                <site></site>
+				<title>Feinberg Rozen</title>
+				<url>http://www.feinbergrozen.com/</url>
+				<description>The official website of Feinberg's law firm.</description>
+			</ext>       
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "deepwater"/>
+	    <org idref = "bp"/>
+	</person>
+
+	<person id = "papandreou">
+	    <name>Former Prime Minister of Greece George Papandreou</name>
+		<info>
+			<type>Former Prime Minister</type>
+			<birthdate>
+				<time>12:00</time>
+				<day>16</day>
+				<month>6</month>
+				<year>1952</year>
+				<misc></misc>
+			</birthdate>
+			<nationality>Greek</nationality>
+			<biography>As Prime Minister of Greece from October 6th, 2009 to November 11th, 2011, George Papandreou served during Greece's sovereign debt crisis. As Prime Minister, Papandreou requested financial aid via a Stand-By Agreement from the IMF. However, the demands of austerity from the IMF caused mass protests and riots in Greece, some of which turned violent.</biography>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>George Papandreou</site>
+				<title>George Papandreou</title>
+				<url>http://www.ahistoryofgreece.com/biography/giorgospapandreou.jpg</url>
+				<description>Photo of George Papandreou</description>
+            </primaryImage>
+			<image>
+                <site></site>
+				<title>George Papandreou at Parliament</title>
+				<url>http://ipolitics_assets.s3.amazonaws.com/wp-content/uploads/2011/10/01538596.jpg</url>
+				<description>George Papandreous addresses members of Parliament regarding a bailout agreement.</description>
+			</image>
+			<video>
+				<site>Youtube</site>
+				<title>George Papandreou on BBC</title>
+				<url>http://www.youtube.com/embed/ScPGKwAbsI8</url>
+				<description>George Papandreou speaks on BBC in an interview about the Greek Financial Crisis.</description>
+			</video>
+			<social>
+                <site>Facebook Page George Papandreou</site>
+				<title>George Papandreou Facebook</title>
+				<url>http://www.facebook.com/george.a.papandreou</url>
+				<description>Facebook page for George Papandreou</description>
+			</social>
+			<ext>
+                <site>George Papandreou Personal Page</site>
+				<title>George Papandreou Personal Page</title>
+				<url>http://www.papandreou.gr</url>
+				<description>Personal Website of George Papandreou</description>
+			</ext>       
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "greece"/>
+	    <org idref = "imf"/>
+	</person>
+
+	<person id = "michelleobama">
+	    <name>First Lady Michelle LaVaughn Robinson Obama</name>
+		<info>
+			<type>Current First Lady</type>
+			<birthdate>
+				<time>12:00</time>
+				<day>17</day>
+				<month>1</month>
+				<year>1964</year>
+				<misc>0</misc>
+			</birthdate>
+			<nationality>American</nationality>
+			<biography>Michelle LaVaughn Robinson Obama is the first African-American First Lady of the United States and wife to the 44th President of the United States, Barack Obama.</biography>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Portrait of Michelle Obama</site>
+				<title>Michelle Obama Portrait</title>
+				<url>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Michelle_Obama_official_portrait_headshot.jpg/225px-Michelle_Obama_official_portrait_headshot.jpg</url>
+				<description>The Official Headshot of the 44th First Lady</description>
+            </primaryImage>
+			<image>
+                <site>Michelle Obama Smiling</site>
+				<title>Michelle Obama Smiling</title>
+				<url>http://images.politico.com/global/news/110128_michelle_obama_smiling_ap_328.jpg</url>
+				<description>Michelle Obama Smiling</description>
+			</image>
+			<video>
+				<site>youtube</site>
+				<title>First Lady Michelle Obama Answers Your Twitter Questions</title>
+				<url>http://www.youtube.com/embed/TwWPrpwhMSI</url>
+				<description>In this video, First Lady Michelle Obama adresses questions she recieved on her Twitter account.</description>
+			</video>
+			<social>
+                <site>Michlle Obama's Facebook Page'</site>
+				<title>Michelle Obama's Facebook Page</title>
+				<url>http://www.facebook.com/michelleobama</url>
+				<description>Michelle Obama's Facebook Page'</description>
+			</social>
+			<ext>
+                <site>Michelle Obama's Wikipedia Entry</site>
+				<title>Michelle Obama's Wikipedia Entry</title>
+				<url>http://en.wikipedia.org/wiki/Michelle_Obama</url>
+				<description>Michelle Obama's Wikipedia Entry'</description>
+			</ext>       
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "childhoodobesity"/>
+	    <org idref = "aap"/>
+	</person>
+
+	<person id = "jonassalk">
+	    <name>Doctor Jonas Edward Salk</name>
+		<info>
+			<type>Medical Researcher</type>
+			<birthdate>
+				<time>12:00</time>
+				<day>28</day>
+				<month>10</month>
+				<year>1914</year>
+				<misc>0</misc>
+			</birthdate>
+			<nationality>American</nationality>
+			<biography>Jonas Salk was an American medical researcher and virologist know for his discovery of the first safe polio vaccine.</biography>    
+		</info>
+		<ref>
+            <primaryImage>
+                <site>Jonas Salk Picture</site>
+				<title>Jonas Salk Picture</title>
+				<url>http://themurkyfringe.com/wp-content/uploads/2010/03/jonas-salk.jpg</url>
+				<description>A picture of Jonas Salk</description>
+            </primaryImage>
+			<image>
+                <site>Jonas Salk Photo</site>
+				<title>Jonas Salk Photo</title>
+				<url>http://www.sciencephoto.com/image/228752/530wm/H4190549-Jonas_Salk,_American_microbiologist-SPL.jpg</url>
+				<description>A photo of Jonas Salk</description>
+			</image>
+			<video>
+				<site>youtube</site>
+				<title>Interview With Doctor Jonas Salk</title>
+				<url>http://www.youtube.com/embed/liQzs6qqYQg</url>
+				<description>Interview with Doctor Jonas Salk</description>
+			</video>
+			<social>
+                <site>Jonas Salk's Facebook Page</site>
+				<title>Doctor Jonas Salk's Facebook Page</title>
+				<url>http://www.facebook.com/pages/Jonas-Salk/193400977367840</url>
+				<description>Jonas Salk's Facebook Page'</description>
+			</social>
+			<ext>
+                <site>Jonas Salk's Wikipedia Entry</site>
+				<title>Jonas Salk's Wikipedia Entry</title>
+				<url>http://en.wikipedia.org/wiki/Jonas_Salk</url>
+				<description>Jonas Salk's Wikipedia entry.</description>
+			</ext>       
+		</ref>
+		<misc>Something</misc>
+		<crisis idref = "polio"/>
+	    <org idref = "tgpei"/>
+	</person>
+</worldCrises>	
+
